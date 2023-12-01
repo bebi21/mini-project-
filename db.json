@@ -1,0 +1,16 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "loc",
+      "age": 12,
+      "city": "hanoi"
+    },
+    {
+      "id": 2,
+      "name": "noc",
+      "age": 21,
+      "city": "nam dinh"
+    }
+  ]
+}
